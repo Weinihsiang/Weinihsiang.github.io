@@ -1,2 +1,4 @@
 # Weinihsiang.github.io
-Winnie Hsiang's Personal Website
+This is Winnie Hsiang's Personal Website.
+In the website, there will be introduction to my skils, my abilities, and my hobbies!
+Feel free to connect to me and ask any questions!
